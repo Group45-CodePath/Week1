@@ -1,5 +1,5 @@
-## Our favorite app idea here
-# some common features here
+# Our favorite app idea here
+ some common features here
 
 #General app atributes:
 -
