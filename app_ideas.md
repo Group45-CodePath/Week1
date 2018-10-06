@@ -8,3 +8,17 @@
 - University connections near Subway and Trains. 
 - Attractions you can see within a 5minute walk in the subway? 
 - I think you meant to put it here 
+
+## Free time activities suggestions
+- Giving people an insight about on the atmosphere of the city
+- Suggesting resstourans to eat and attractions to visit ( daytime / nighttime)
+- tv shows streaming in that moment and future  ( sports/ movies / favourite soap operas etc)
+- reminding them to sleep
+- reminding to pay the bills
+- reminding them to walk their dogs
+- exercise and healthy living
+
+# Commute planner
+- an all-encompassing app that interfaces lyft, uber, google maps(bus/walk/ride), etc
+- 1st step: input starting point and destination
+- 2nd step: set preferences: price or time, and the app will give you the best option
