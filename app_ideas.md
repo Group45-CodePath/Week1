@@ -4,7 +4,7 @@
 ## Favorite Existing Apps - Categorize and Evaluate
 
 
-## New App Ideas - List
+# New App Ideas - List
 1. Notes sharing with photos
 - take photos of lecture notes on blackboard, etc
 - hashtag them, so they are easier to find later
