@@ -18,7 +18,7 @@
 
 # 1. Notes sharing with photos
 - Take photos of lecture notes on blackboard, etc
-- Tashtag them, so they are easier to find later
+- Hashtag them, so they are easier to find later
 
 # 2. Free time activities suggestions
 - Giving people an insight about on the atmosphere of the city
