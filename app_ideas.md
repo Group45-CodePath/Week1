@@ -14,7 +14,7 @@
 2. Great filters
 3. Story sharing allows you to share ephemeral posts with your followers
 
-## New App Ideas - List 
+### New App Ideas - List 
 
 # 1. Notes sharing with photos
 - Take photos of lecture notes on blackboard, etc
