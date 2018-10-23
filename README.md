@@ -1,6 +1,5 @@
 # Note Sharing
-We all know how hard it is keeping up with the notes of a lecture during the time a professor is teaching. This app will end this nightmare. Through this app users will be able to  take a picture of their notes on a blacboard and assign it a hashtag so that they will be able acces it again. They will also be able to share their notes with other students around the world and also get notes for their major on the same time.
-
+We all know how hard it is keeping up with the notes of a lecture during the time a professor is teaching. This app will end this nightmare. Through this app users will be able to  take a picture of their notes on a blacboard and assign it a hashtag so that they will be able acces it again. They will also be able to share their notes with other students around the world and also get relevant notes from the past.
 # General app atributes:
 - Category: Productivity and Social networking
 - Mobile : Users will be able to use their cameras to take notes from blackboard and share it with other people in the platform.
