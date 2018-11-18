@@ -8,7 +8,10 @@ We all know how hard it is keeping up with the notes of a lecture during the tim
 - Habit: Student are using this app daily in order to end the nightmare of not having their notes to study before the exam.
 - Scope: V1 would allow students to take picture of the blackboard and save it on the phones. V2 would allow students to push their photos on the cloud so that anyone could access them. V3 active posters will receive point rewards for their effort.
 
+## Wireframe
 
+
+<img src="http://g.recordit.co/5S8wF4k0Vm.gif" width=200><br>
 
 
 ## 1. User Stories (Required and Optional)
@@ -73,3 +76,4 @@ We all know how hard it is keeping up with the notes of a lecture during the tim
    * home
  * Chat
    * home
+
