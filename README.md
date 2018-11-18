@@ -9,6 +9,7 @@ We all know how hard it is keeping up with the notes of a lecture during the tim
 - Scope: V1 would allow students to take picture of the blackboard and save it on the phones. V2 would allow students to push their photos on the cloud so that anyone could access them. V3 active posters will receive point rewards for their effort.
 
 ## Wireframe
+An introduction on how the first version of this app will look. An updated an UI will be soon added.
 
 <img src="https://raw.githubusercontent.com/Group45-CodePath/Week1/master/wireframe%2Cdraft.png" width=250><br>
 
