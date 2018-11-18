@@ -10,7 +10,8 @@ We all know how hard it is keeping up with the notes of a lecture during the tim
 
 ## Wireframe
 
-<img src="https://raw.githubusercontent.com/Group45-CodePath/Week1/master/wireframe%2Cdraft.png" width=200><br>
+<img src="https://raw.githubusercontent.com/Group45-CodePath/Week1/master/wireframe%2Cdraft.png" width=250><br>
+
 
 <img src="http://g.recordit.co/5S8wF4k0Vm.gif" width=200><br>
 
