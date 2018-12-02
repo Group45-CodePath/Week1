@@ -11,7 +11,7 @@ We all know how hard it is keeping up with the notes of a lecture during the tim
 ## Wireframe
 An introduction on how the first version of this app will look. An updated an UI will be soon added.
 
-<img src="" width=250><br>
+<img src="imgur.com/NFbMXV2" width=250><br>
 
 
 <img src="http://g.recordit.co/e0c7CFLrqn.gif" width=200><br>
